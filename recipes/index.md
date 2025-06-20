@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Recipes
-permalink: /recipes/
+nav_order: 4
 ---
 
 # Recipes
 
-Favorite dishes and cooking tips.
+Cooking ideas and food notes.

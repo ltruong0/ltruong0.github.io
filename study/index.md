@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Study
-permalink: /study/
+nav_order: 2
 ---
 
 # Study
 
-Notes and resources related to my studies.
+Topics and resources related to education and learning.

@@ -1,23 +1,11 @@
-title: My Personal Site
-description: A categorized knowledge base for study, work, and life
-theme: jekyll-theme-slate
+title: Lee Personal Site
+theme: just-the-docs
 permalink: pretty
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-nav:
-  - title: Home
-    url: /
-  - title: Study
-    url: /study/
-  - title: Job Experience
-    url: /job/
-  - title: Recipes
-    url: /recipes/
-
-social_links:
-  - name: GitHub
-    url: https://github.com/ltruong0
+just_the_docs:
+  logo: "/assets/logo.png"
+aux_links:
+  "GitHub": https://github.com/ltruong0
+  "LinkedIn": https://www.linkedin.com/in/lee-truong/
+  "Email Me": mailto:lee.t.truong@gmail.com
+aux_links_new_tab: true

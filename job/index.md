@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Job Experience
-permalink: /job/
+nav_order: 3
 ---
 
 # Job Experience
 
-Work history and accomplishments.
+My professional background.
