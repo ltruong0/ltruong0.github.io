@@ -8,6 +8,8 @@ plugins:
 just_the_docs:
   logo: "/assets/logo.png"
 
+color_scheme: dark
+
 aux_links:
   "GitHub": https://github.com/ltruong0
   "LinkedIn": https://www.linkedin.com/in/lee-truong/
