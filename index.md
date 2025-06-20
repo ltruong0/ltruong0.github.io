@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Personal Site
+# Welcome
 
-Use the navigation above to browse by category.
+This is the homepage for my personal GitHub Pages site using the Slate theme.

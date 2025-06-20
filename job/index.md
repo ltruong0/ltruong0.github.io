@@ -4,6 +4,6 @@ title: Job Experience
 permalink: /job/
 ---
 
-# Job Experience Section
+# Job Experience
 
-- [Resume](/job/resume/)
+Work history and accomplishments.

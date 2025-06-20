@@ -6,4 +6,4 @@ permalink: /recipes/
 
 # Recipes
 
-- [Pasta](/recipes/pasta/)
+Favorite dishes and cooking tips.

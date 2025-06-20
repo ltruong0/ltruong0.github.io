@@ -4,6 +4,6 @@ title: Study
 permalink: /study/
 ---
 
-# Study Section
+# Study
 
-- [Some Topic](/study/some-topic/)
+Notes and resources related to my studies.
