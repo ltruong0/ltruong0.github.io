@@ -1,0 +1,15 @@
+title: Read The Docs Jekyll Theme
+description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+remote_theme: carlosperate/jekyll-theme-rtd
+
+# Theme settings:
+site_author: Lee T
+repo_url: "https://github.com/ltruong0/ltruong0.github.io"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+google_analytics: UA-XXXXX-Y
+google_analytics_anonymize_ip: true
+hljs_style: github-gist
