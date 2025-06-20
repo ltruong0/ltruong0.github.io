@@ -4,6 +4,6 @@ title: Some Topic
 permalink: /study/some-topic/
 ---
 
-# Some Study Topic
+# Some Topic
 
-Details about a specific topic.
+Details about a specific study topic.

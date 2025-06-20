@@ -6,4 +6,4 @@ permalink: /study/
 
 # Study Section
 
-Welcome to the Study section.
+- [Some Topic](/study/some-topic/)

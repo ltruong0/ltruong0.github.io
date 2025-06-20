@@ -4,6 +4,6 @@ title: Job Experience
 permalink: /job/
 ---
 
-# Job Experience
+# Job Experience Section
 
-Welcome to the Job Experience section.
+- [Resume](/job/resume/)

@@ -5,4 +5,4 @@ title: Home
 
 # Welcome to My Personal Site
 
-This is the landing page. Use the navigation to explore.
+Use the navigation above to browse by category.

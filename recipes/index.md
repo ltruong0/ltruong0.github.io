@@ -6,4 +6,4 @@ permalink: /recipes/
 
 # Recipes
 
-Welcome to the Recipes section.
+- [Pasta](/recipes/pasta/)

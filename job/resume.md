@@ -6,4 +6,4 @@ permalink: /job/resume/
 
 # My Resume
 
-Details about my resume.
+Here's where the resume content would go.
