@@ -2,10 +2,15 @@ title: Lee Personal Site
 remote_theme: just-the-docs/just-the-docs
 permalink: pretty
 
+plugins:
+  - jekyll-remote-theme
+
 just_the_docs:
   logo: "/assets/logo.png"
+
 aux_links:
   "GitHub": https://github.com/ltruong0
   "LinkedIn": https://www.linkedin.com/in/lee-truong/
   "Email Me": mailto:lee.t.truong@gmail.com
+
 aux_links_new_tab: true
